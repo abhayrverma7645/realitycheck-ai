@@ -26,6 +26,13 @@ Note: Assessments are automated indicators to support investigation, not definit
 - SerpApi
 - Pytest
 
+### 📌 Final Version
+
+The final implementation, with the LLM dependency removed, is located in `realitycheck-ai-FINAL/realitycheck-ai/`.
+
+Please use this folder when reviewing or running the final version. The separate `realitycheck-ai/` folder contains an earlier version of the project.
+
+
 🏗️ Project Structure
 
 realitycheck-ai/
